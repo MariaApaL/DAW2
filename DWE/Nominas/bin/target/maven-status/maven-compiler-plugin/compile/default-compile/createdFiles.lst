@@ -1,0 +1,9 @@
+org\iessoterohernandez\CalculaNominasSegundo.class
+org\iessoterohernandez\CalculaNominaBD.class
+org\iessoterohernandez\CalculaNominas.class
+org\iessoterohernandez\Laboral\Empleado.class
+org\iessoterohernandez\Laboral\Persona.class
+org\iessoterohernandez\model\dao\EmpleadoBBDD.class
+org\iessoterohernandez\exceptions\DatosNoCorrectosException.class
+org\iessoterohernandez\Laboral\Nomina.class
+org\iessoterohernandez\model\connector\MySQLConnector.class

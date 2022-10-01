@@ -1,0 +1,4 @@
+James Cosling DNI: 32000032G, AÑOS: 4, CATEGORÍA: 7, SEXO: M
+Ada Lovelace DNI: 32000031R , SEXO: F
+James Cosling DNI: 32000032G, AÑOS: 4, CATEGORÍA: 9, SEXO: M
+Ada Lovelace DNI: 32000031R , SEXO: F, AÑOS: 1

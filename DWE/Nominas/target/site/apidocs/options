@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/maria/.m2/repository/mysql/mysql-connector-java/8.0.11/mysql-connector-java-8.0.11.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/maria/Desktop/DWE/Nominas/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/maria/Desktop/DWE/Nominas/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Nominas 1.0-SNAPSHOT API'
+-linkoffline
+'http://docs.oracle.com/javase/8/docs/api' 'C:/Users/maria/Desktop/DWE/Nominas/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Nominas 1.0-SNAPSHOT API'
