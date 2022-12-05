@@ -37,20 +37,46 @@ buscaPalabra("buenas tardes, como esta", "buenas","tardes","no");
 //Tarea 5
 
 
-function truncar(texto,longitudMax){
-    let length=texto.length;
-    let final="...";
-    let max=longitudMax-3;
+// function truncar(texto,longitudMax){
+//     let length=texto.length;
+//     let final="...";
+//     let max=longitudMax-3;
   
-    if(length>longitudMax){ 
+//     if(length>longitudMax){ 
     
-    texto=texto.substring(0,max);
-    alert(texto+final);
-    }else{
-        alert(texto);
+//     texto=texto.substring(0,max);
+//     alert(texto+final);
+//     }else{
+//         alert(texto);
+//     }
+    
+// }
+
+
+function truncar(texto,longitudMax){
+    
+    let arrg= texto.split(" ");
+    let final="... ";
+    let text="";
+    let cadena="";
+   
+    
+    for(let i=0;i<arrg.length;i++){
+        text=arrg[i];
+        
+    if(text.length>longitudMax){ 
+       
+        text=text.substring(0,longitudMax);
+        text+=final;
+        
     }
-    
+    cadena+=text+" ";
 }
+
+alert(cadena);
+}
+
+truncar("HOLA BUENOS DIAS HOY ME SIENTO BIEN",4);
 
 //Tarea 6
 
